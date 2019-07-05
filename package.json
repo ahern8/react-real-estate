@@ -45,11 +45,12 @@
     "watch": "gulp",
     "sass": "gulp styles",
     "js": "gulp webpack",
-    "start": "npm start",
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
   },
-  "devDependencies": {  
+  "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1"
   },
