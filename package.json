@@ -48,7 +48,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build"
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
