@@ -45,7 +45,7 @@
     "watch": "gulp",
     "sass": "gulp styles",
     "js": "gulp webpack",
-    "start": "node server.js",
+    "start": "npm start",
     "predeploy": "npm run build",
    "deploy": "gh-pages -d build"
   },
