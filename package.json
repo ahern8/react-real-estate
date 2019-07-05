@@ -7,7 +7,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ahern8/react-real-estate.git",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.19.0",
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
     "babel-polyfill": "^6.0.16",
@@ -33,6 +33,7 @@
     "react-dom": "^15.5.4",
     "react-redux": "^5.0.4",
     "react-router": "^4.1.1",
+    "react-scripts": "^3.0.1",
     "redux": "^3.6.0",
     "sass-loader": "^6.0.3",
     "standard": "^10.0.2",
