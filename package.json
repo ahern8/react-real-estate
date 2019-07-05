@@ -8,12 +8,6 @@
   "homepage": "https://github.com/ahern8/react-real-estate.git",
   "dependencies": {
     "axios": "^0.19.0",
-    "babel-core": "^6.24.1",
-    "babel-polyfill": "^6.0.16",
-    "babel-preset-env": "^1.4.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
     "browser-sync": "^2.18.8",
     "gh-pages": "^2.0.1",
     "gulp": "^3.9.1",
@@ -21,7 +15,7 @@
     "gulp-babel": "^6.1.2",
     "gulp-concat": "^2.6.0",
     "gulp-eslint": "^3.0.1",
-    "gulp-imagemin": "^3.0.3", 
+    "gulp-imagemin": "^3.0.3",
     "gulp-sass": "^3.0.0",
     "gulp-shell": "^0.6.3",
     "gulp-uglify": "^2.0.0",
@@ -50,10 +44,6 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
-  },
-  "devDependencies": {
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1"
   },
   "engines": {
     "node": "10.16.0",
